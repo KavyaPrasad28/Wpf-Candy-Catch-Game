@@ -1,0 +1,15 @@
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\bin\Debug\CandyCatchGame.exe.config
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\bin\Debug\CandyCatchGame.exe
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\bin\Debug\CandyCatchGame.pdb
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.csproj.AssemblyReference.cache
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\App.g.cs
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame_MarkupCompile.cache
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame_MarkupCompile.lref
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.g.resources
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.Properties.Resources.resources
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.csproj.GenerateResource.cache
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.exe
+C:\Users\DELL\source\Training\WPF Game\CandyCatchGame\CandyCatchGame\obj\Debug\CandyCatchGame.pdb
